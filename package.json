@@ -1,0 +1,9 @@
+{
+  "name": "socket-test",
+  "description": "To test socket and broadcast",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "socket.io": "^1.2.1"
+  }
+}
